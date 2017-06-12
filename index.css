@@ -40,7 +40,7 @@ body{
 }
 
 #social-media-section {
-  @include background('https://s3.amazonaws.com/rob-dev-images/luke-chesser-48light.jpg', 0% 100%);
+  @include background('https://s3.amazonaws.com/rob-dev-images/luke-chesser-48light2.jpg', 0% 100%);
   padding-top: 10%;
 }
 
@@ -55,7 +55,7 @@ body{
 }
 
 #skills-section {
-  @include background('https://s3.amazonaws.com/rob-dev-images/kazuend-bamboo-light2.jpg');
+  @include background('https://s3.amazonaws.com/rob-dev-images/kazuend-bamboo-light3.jpg');
 }
 
 #projects-section {
@@ -63,7 +63,7 @@ body{
 }
 
 #contact-section {
-  @include background('https://s3.amazonaws.com/rob-dev-images/freddy-castro-133326light.jpg', 0% 70%)
+  @include background('https://s3.amazonaws.com/rob-dev-images/freddy-castro-133326light2.jpg', 0% 70%)
 }
 
 .social-media-icons {
@@ -92,6 +92,6 @@ body{
   font-size: 200%;
 }
 
-.medium-font{
+.medium-font {
   font-size: 150%;
 }
