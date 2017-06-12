@@ -59,7 +59,7 @@ body{
 }
 
 #projects-section {
-  @include background('https://s3.amazonaws.com/rob-dev-images/octavio-fossatti-37556light.jpg')
+  @include background('https://s3.amazonaws.com/rob-dev-images/octavio-fossatti-37556light3.jpg')
 }
 
 #contact-section {
@@ -94,4 +94,9 @@ body{
 
 .medium-font {
   font-size: 150%;
+}
+
+.panel-body img{
+  width: 100%;
+  max-height: 200px;
 }
