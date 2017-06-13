@@ -13,6 +13,9 @@ body {
   margin-top: 0px;
 }
 
+.nav-blue-link {
+  color: #428bca;
+}
 .nav-top-fixed {
   position: fixed;
   top: 0;
